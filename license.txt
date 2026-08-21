@@ -1,0 +1,11 @@
+Model Information:
+* title:	McLaren P1 GTR 2015
+* source:	https://sketchfab.com/3d-models/mclaren-p1-gtr-2015-187bdc110d16417e8a02e71af4ebd8d8
+* author:	LC Design ⓥⓘⓟ (https://sketchfab.com/h.e.l.l.o_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McLaren P1 GTR 2015" (https://sketchfab.com/3d-models/mclaren-p1-gtr-2015-187bdc110d16417e8a02e71af4ebd8d8) by LC Design ⓥⓘⓟ (https://sketchfab.com/h.e.l.l.o_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
